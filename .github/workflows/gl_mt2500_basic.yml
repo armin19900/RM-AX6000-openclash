@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/sdf8057/mt798x.git
+  REPO_URL: https://github.com/sdf8057/openwrt-mt2500.git
   REPO_BRANCH: mt798x
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: ./config/gl_mt2500/gl_mt2500_basic.config
